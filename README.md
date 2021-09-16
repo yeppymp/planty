@@ -1,3 +1,7 @@
+# Planty
+
+This is a React Shopping Cart, created by implementing Tailwind and React Hook
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
