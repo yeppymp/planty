@@ -1,0 +1,47 @@
+[
+	{
+		"id": 1,
+		"name": "Janda Bolong",
+		"description": "Monstera adansonii adalah spesies tumbuhan berbunga dari keluarga Araceae yang banyak tumbuh di Amerika Selatan dan Amerika Tengah.",
+		"picture": "https://akcdn.detik.net.id/visual/2020/09/28/tanaman-janda-bolong-17_169.jpeg?w=650",
+		"price": 5040000,
+		"priceDiscount": 4580000,
+		"stock": 2
+	},
+	{
+		"id": 2,
+		"name": "Alokasia Alba 'lemon'",
+		"description": "Alokasia jenis ini memiliki ukuran yang sangat besar hingga mencapai 2 meter. Alokasia alba 'lemon' sangat cocok buat mempercantik rumah.",
+		"picture": "https://akcdn.detik.net.id/visual/2021/02/14/tanaman-alokasia-dok-bliblicom_169.jpeg?w=715&q=90",
+		"price": 463000,
+		"priceDiscount": 325000,
+		"stock": 3
+	},
+	{
+		"id": 3,
+		"name": "Bunga Kelelawar Hitam",
+		"description": "Tanaman hias ini unik dan memiliki bentuk tidak biasa alias cenderung langka, dengan warna bercorak hitam atau biasa disebut bunga kelelawar hitam.",
+		"picture": "https://akcdn.detik.net.id/community/media/visual/2021/02/23/tanaman-bunga-kelelawar-hitam_169.jpeg?w=620",
+		"price": 1240000,
+		"priceDiscount": 1140000,
+		"stock": 4
+	},
+	{
+		"id": 4,
+		"name": "Sukulen Rose",
+		"description": "Ada lebih dari 60 spesies sukulen, dan salah satunya adalah greenovia sukulen atau greenovia dodrentalis dengan bentuk seperti bunga mawar.",
+		"picture": "https://akcdn.detik.net.id/community/media/visual/2021/02/23/tanaman-sukulen-rose_169.jpeg?w=620",
+		"price": 114000,
+		"priceDiscount": 95000,
+		"stock": 6
+	},
+	{
+		"id": 5,
+		"name": "Begonia Rex",
+		"description": "Begonia rex juga termasuk ke dalam golongan famili Begoniaceae, dengan daun unik yang memiliki pola spiral.",
+		"picture": "https://akcdn.detik.net.id/community/media/visual/2021/01/25/rex-begonia_169.jpeg?w=620",
+		"price": 125000,
+		"priceDiscount": 113000,
+		"stock": 8
+	}
+]
