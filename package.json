@@ -1,4 +1,5 @@
 {
+  "homepage": "http://yeppymp.github.io/planty",
   "name": "react-shopping-cart",
   "version": "0.1.0",
   "private": true,
@@ -9,19 +10,20 @@
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
-    "css-loader": "^6.2.0",
+    "css-loader": "^5.2.7",
     "file-loader": "^6.2.0",
     "postcss-import": "^14.0.2",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-scripts": "4.0.3",
-    "style-loader": "^3.2.1",
+    "style-loader": "^2",
     "web-vitals": "^1.1.2"
   },
   "scripts": {
     "webpack-dev-server": "webpack-dev-server",
     "start": "craco start && webpack-dev-server --mode=development",
     "build": "craco build && webpack --mode=production",
+    "deploy": "gh-pages -d build",
     "test": "craco test",
     "eject": "react-scripts eject"
   },
@@ -50,7 +52,8 @@
     "@babel/preset-react": "^7.14.5",
     "autoprefixer": "^9.8.6",
     "babel-loader": "^8.2.2",
-    "html-webpack-plugin": "^5.3.2",
+    "gh-pages": "^3.2.3",
+    "html-webpack-plugin": "^4.5.2",
     "path": "^0.12.7",
     "postcss": "^7.0.36",
     "react-router-dom": "^5.3.0",
